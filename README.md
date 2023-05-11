@@ -1,2 +1,2 @@
-# To-Do-List
-Spring Boot ToDo List application
+# Server-Manager
+Server management app using Spring Boot and Angular
